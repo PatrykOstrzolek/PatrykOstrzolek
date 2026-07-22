@@ -18,4 +18,4 @@ The repositories here are primarily educational projects and technical experimen
 ## Get in touch 📫
 
 - [LinkedIn](https://www.linkedin.com/in/patryk-ostrzo%C5%82ek-225599141/)
-- [Email](mailto:patryk.ostrzolek@pm.me)
+- Feel free to send me a message on LinkedIn.
