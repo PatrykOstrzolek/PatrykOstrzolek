@@ -4,11 +4,12 @@ Full Stack Developer with experience in PHP/Symfony, React, API integrations and
 
 ## What I’m focusing on 🌱
 
-I’m currently expanding my backend skills, with a focus on:
+I’m currently expanding my backend and platform engineering skills, with a focus on:
 
 - Domain-Driven Design (DDD)
 - CQRS and asynchronous processing
 - Event-driven systems and Saga Pattern
+- CI/CD and infrastructure automation with GitHub Actions, Ansible and Terraform
 - PHP/Symfony and React applications
 
 ## About this profile 💻
