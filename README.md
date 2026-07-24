@@ -13,7 +13,7 @@ I'm currently expanding my backend and platform engineering skills, with a focus
 
 ## About this profile 💻
 
-The repositories here are educational projects and technical experiments — I use them to explore architecture patterns hands-on and document what I learn along the way, moving from hand-rolled implementations to framework-native ones (e.g. Symfony EventDispatcher/Messenger).
+These repositories are a direct continuation of what I did commercially — API integrations, system architecture, backend/frontend ownership — just pushed further on my own terms. [`php-event-driven-lab`](https://github.com/PatrykOstrzolek/php-event-driven-lab) is the flagship one: a series of PHP projects moving from hand-rolled implementations to Symfony EventDispatcher/Messenger, covering domain events, CQRS, event sourcing and the Saga pattern. The rest are educational projects and technical experiments where I document what I learn along the way.
 
 ## Get in touch 📫
 
