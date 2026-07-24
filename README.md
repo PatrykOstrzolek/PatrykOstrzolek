@@ -1,20 +1,19 @@
-# Hi, I’m Patryk 👋
+## Hi, I'm Patryk 👋
 
-Full Stack Developer with experience in PHP/Symfony, React, API integrations and e-commerce storefronts.
+Full Stack Developer with 9+ years of commercial experience — PHP/Symfony on the backend, React on the frontend. I've built affiliate platforms, financial lead-generation systems, API integrations with external partners, and e-commerce storefronts on Magento PWA Studio.
 
-## What I’m focusing on 🌱
+## What I'm focusing on 🌱
 
-I’m currently expanding my backend and platform engineering skills, with a focus on:
+I'm currently expanding my backend and platform engineering skills, with a focus on:
 
-- Domain-Driven Design (DDD)
-- CQRS and asynchronous processing
-- Event-driven systems and Saga Pattern
+- Domain-Driven Design (DDD), CQRS and event sourcing
+- Asynchronous processing with RabbitMQ, and the Saga pattern for distributed workflows
 - CI/CD and infrastructure automation with GitHub Actions, Ansible and Terraform
-- PHP/Symfony and React applications
+- Headless architectures (Sulu CMS + Next.js / JAMstack)
 
 ## About this profile 💻
 
-The repositories here are primarily educational projects and technical experiments. I use them to explore architecture patterns, deepen my backend knowledge and document my learning through code.
+The repositories here are educational projects and technical experiments — I use them to explore architecture patterns hands-on and document what I learn along the way, moving from hand-rolled implementations to framework-native ones (e.g. Symfony EventDispatcher/Messenger).
 
 ## Get in touch 📫
 
