@@ -6,7 +6,7 @@ Full Stack Developer with 9+ years of commercial experience — PHP/Symfony on t
 
 I'm currently expanding my backend and platform engineering skills, with a focus on:
 
-- Domain-Driven Design (DDD), CQRS and event sourcing
+- Domain-Driven Design (DDD) along with naturally fitting approaches like CQRS, ES and hexagonal architecture (P&A)
 - Asynchronous processing with RabbitMQ, and the Saga pattern for distributed workflows
 - CI/CD and infrastructure automation with GitHub Actions, Ansible and Terraform
 - Headless architectures (Sulu CMS + Next.js / JAMstack)
